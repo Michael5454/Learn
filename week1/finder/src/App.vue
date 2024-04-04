@@ -16,7 +16,6 @@ export default {
       email: "",
       emps:[
         {"name_en": "michael","name_cn": "尚亚辉","email": "michael.shang@sanofi.com"},
-        {"name_en": "forrest","name_cn": "苏永佳","email": "forrest.su@sanofi.com"},
       ]
     }
   },
